@@ -145,8 +145,8 @@ cout<<"BANK ACCONT DETAILS\n";
 			cin>>current;
 				cout<<"enter your pin\n";
 			cin>> pin;
-			cout<<"enter the balance\n";
-			cin>>balance;
+		//	cout<<"enter the balance\n";
+			//cin>>balance;
 				
 }
 int main ()
