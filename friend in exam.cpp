@@ -26,8 +26,10 @@ return 3.14*c.radius*c.radius*c.height;
 }
 int main()
 {
-	cylinder a;
+	cylinder a,b;
 	a.getinput();
+b.getinput();
+cout<<"the volume is\t"get volume(b)<<endl;
 	cout<<"the volume is\t"<<getvolume(a)<<endl;
 	return 0;
 }
