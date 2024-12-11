@@ -6,7 +6,7 @@ int main ()
    // char name;
     //printf("enter your name");
     //scanf("%c",& name);
-    int marks=100;
+    int marks=100,sum=1+marks;
     printf("enter your marks ");
     scanf("%d",&marks);
     if (marks>=80 && marks<=100)
@@ -25,7 +25,7 @@ int main ()
 
 
 
-//printf("the value of sum is:%f",sum);
+printf("the value of sum is:%f",sum);
 return 0;
 
 
